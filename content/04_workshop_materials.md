@@ -1,3 +1,9 @@
+---
+ layout: default
+ title: More Resources
+ nav_order: 4
+---
+
 ## Workshop Materials
 
 Citation Management Tools Comparison Table Zotero is one of several common citation management tools. In this document we compare the features of these different tools to help you pick the right option for your work.
