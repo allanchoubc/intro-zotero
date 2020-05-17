@@ -1,6 +1,6 @@
 ---
  layout: default
- title: What is RefWorks
+ title: What is Zotero
  nav_order: 2
 ---
 
