@@ -19,8 +19,5 @@ Zotero 20 Challenges handout Master Zotero in 20 steps
 
 Workshop slides from Citation Management Using Zotero
 
-       - Download here (https://github.com/ubc-library-rc/intro-refworks/blob/master/handouts/ReferenceManagementToolsChecklist.docx)
+       - Download here (https://github.com/ubc-library-rc/intro-refworks/blob/master/handouts/Zotero-Presentation-2020_2021-Winter.pdf)
 
-Related UBC Library Research Guide - UBC Library Citation Management Guide
-
-       - Download here (https://github.com/ubc-library-rc/intro-refworks/blob/master/handouts/ReferenceManagementToolsChecklist.docx)
