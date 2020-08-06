@@ -11,16 +11,16 @@ Citation Management Tools Comparison Table Zotero is one of several common citat
 
 Introduction to Zotero handout Handout 
 
-         - [Download here](handouts/ReferenceManagementToolsChecklist.docx)
+         - Download here (https://github.com/ubc-library-rc/intro-refworks/blob/master/handouts/ReferenceManagementToolsChecklist.docx)
 
 Zotero 20 Challenges handout Master Zotero in 20 steps
 
-        - [Download here](handouts/ReferenceManagementToolsChecklist.docx)
+        - Download here (https://github.com/ubc-library-rc/intro-refworks/blob/master/handouts/ReferenceManagementToolsChecklist.docx)
 
 Workshop slides from Citation Management Using Zotero
 
-       - [Download here](handouts/ReferenceManagementToolsChecklist.docx)
+       - Download here (https://github.com/ubc-library-rc/intro-refworks/blob/master/handouts/ReferenceManagementToolsChecklist.docx)
 
 Related UBC Library Research Guide - UBC Library Citation Management Guide
 
-       - [Download here](handouts/ReferenceManagementToolsChecklist.docx)
+       - Download here (https://github.com/ubc-library-rc/intro-refworks/blob/master/handouts/ReferenceManagementToolsChecklist.docx)
