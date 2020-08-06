@@ -1,9 +1,9 @@
 ---
  layout: default
- title: Related UBC Library Research Guide
+ title: Citation Management Research Guide
  nav_order: 5
 ---
 
-UBC Library Citation Management Research Guide
+Citation Management Research Guide
 
 - [UBC Library Citation Management Guide](https://guides.library.ubc.ca/citationmanagement)
