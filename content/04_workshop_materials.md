@@ -1,14 +1,17 @@
 ---
- layout: default
- title: Workshop Materials
- nav_order: 4
+layout: default
+title: Workshop Materials
+nav_order: 4
+published: true
 ---
 
 ## Workshop Materials
 
 Citation Management Tools Comparison Table Zotero is one of several common citation management tools. In this document we compare the features of these different tools to help you pick the right option for your work.
 
-Introduction to Zotero handout Handout from 2 hour workshop on Zotero
+Introduction to Zotero handout Handout 
+
+         - [Download here](handouts/ReferenceManagementToolsChecklist.docx)
 
 Zotero 20 Challenges handout Master Zotero in 20 steps
 
