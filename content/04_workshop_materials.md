@@ -1,6 +1,6 @@
 ---
  layout: default
- title: More Resources
+ title: Workshop Materials
  nav_order: 4
 ---
 
