@@ -8,4 +8,4 @@ Zotero was developed as an extension for Firefox  to “live” right where you 
 
 ## NOTICE: 
 
-Systematic downloading or harvesting articles, citations, metadata (e.g. using citation managers such as EndNote or Zotero) is strictly prohibited. (You must contact lib-license@lists.ubc.ca. Permission is required or a Text and Data Mining Package should be purchased.)
+Systematic downloading or harvesting articles, citations, metadata (e.g. using citation managers such as EndNote or Zotero) is strictly prohibited. (You must contact [lib-license@lists.ubc.ca](lib-license@lists.ubc.ca). Permission is required or a Text and Data Mining Package should be purchased.)
