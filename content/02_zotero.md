@@ -4,7 +4,7 @@
  nav_order: 2
 ---
 
-Zotero was developed as an extension for Firefox  to “live” right where you do your work—in the web browser itself. Zotero runs in its own pane within Firefox, separately from web pages and scrapes information to populate the your citation database.  Zotero is free to download. You can download the most recent version whether you are using a Mac, Windows, or Linux operating system here: [https://www.zotero.org/download/](https://www.zotero.org/download/)
+Zotero was developed as an extension for Firefox  to “live” right where you do your work—in the web browser itself. Zotero runs in its own pane within Firefox, separately from web pages and scrapes information to populate the your citation database.  Zotero is free to download. You can download the most recent version whether you are using a Mac, Windows, or Linux operating system [here](https://www.zotero.org/download/).
 
 ## NOTICE: 
 
