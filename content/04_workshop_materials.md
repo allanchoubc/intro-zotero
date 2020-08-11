@@ -7,9 +7,11 @@ published: true
 
 ## Workshop Materials
 
-Citation Management Tools Comparison Table Zotero is one of several common citation management tools. In this document we compare the features of these different tools to help you pick the right option for your work.
+Zotero is one of several common citation management tools. In this Citation Management Tools Comparison Table, we compare the features of these different tools to help you pick the right option for your work.
 
-Introduction to Zotero handout  
+- [Download here](https://github.com/ubc-library-rc/intro-zotero/blob/master/handouts/CM-Comparison-Tables,2020.docx)
+
+This handout provides a thorough introduction to using Zotero, as well as detailed descriptions of some of its special features. 
 
 - [Download here](https://github.com/ubc-library-rc/intro-zotero/blob/master/handouts/Intro_to_Zotero_Handout_2020.docx)
 
@@ -17,12 +19,7 @@ Mastering Zotero in 20 steps
 
 - [Download here](https://github.com/ubc-library-rc/intro-zotero/blob/master/handouts/Zotero_20_Challenges_Handout_2020.docx)
 
-Workshop slides from Citation Management Using Zotero
+Workshop slides
 
 - [Download here](https://github.com/ubc-library-rc/intro-zotero/blob/master/handouts/Zotero-Presentation-2020_2021-Winter.pdf)
-
-
-Zotero is one of several common citation management tools. In this document, we compare the features of these different tools to help you pick the right option for your work.  Here is a citation management tools comparison table.
-
-- [Download here](https://github.com/ubc-library-rc/intro-zotero/blob/master/handouts/CM-Comparison-Tables,2020.docx)
 
