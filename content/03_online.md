@@ -12,7 +12,7 @@ Microphones are muted by default to improve audio quality and recording is disab
 
 The Zoom toolbar provides several ways to be part of the conversation:
 
-<img src="/content/media/zoom_toolbar.png" alt="Zoom toolbar" width="510"/>
+<img src="media/zoom_toolbar.png" alt="Zoom toolbar" width="510"/>
 <br/>
 ## Participants window
 The _Participants_ window lists everyone in the session. Click the icons at the bottom of the window to communicate with the instructors.
@@ -36,4 +36,4 @@ The _Whiteboard_ is a collaborative space that everyone can annotate with drawin
 
 This opens the annotation toolbar. Drawings and text you add to the screen will be visible to everyone in the session or breakout room.
 
-![The annotation toolbar](/content/media/annotate_toolbar.png)
+![The annotation toolbar](media/annotate_toolbar.png)
