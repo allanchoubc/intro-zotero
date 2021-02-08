@@ -13,7 +13,7 @@ Zotero is one of several common citation management tools. In this Citation Mana
 
 This handout provides a thorough introduction to using Zotero, as well as detailed descriptions of some of its special features. 
 
-- [Download here](https://github.com/ubc-library-rc/intro-zotero/blob/master/handouts/Intro_to_Zotero_Handout_2020.docx)
+- [Download here](https://github.com/ubc-library-rc/intro-zotero/blob/master/handouts/Zotero-Presentation-2020-rev20210208.pdf)
 
 Mastering Zotero in 20 steps
 
