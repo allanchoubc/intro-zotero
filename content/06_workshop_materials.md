@@ -23,3 +23,8 @@ Workshop slides
 
 - [Download here](https://github.com/ubc-library-rc/intro-zotero/blob/master/handouts/Zotero-Presentation-2020_2021-Winter.pdf)
 
+Sample RIS file for practice (Right-click to save)
+
+- [Download here](https://github.com/ubc-library-rc/intro-zotero/blob/master/handouts/cm.ris)
+
+
